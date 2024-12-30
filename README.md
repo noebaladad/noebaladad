@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Noe Baladad and I'm currently a TripleTen Software Engineering student!
+
+🔭 I’m currently working on: JavaScript Program Logic
+🌱 Current Skills: HTML/CSS, Git, GitHub, VSCode, Figma, and JavaScript
+🎹 Fun fact: I'm a piano teacher of 11 years and have two homeless rescue doggos 🐶
+
 <!--
 **noebaladad/noebaladad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
